@@ -1,0 +1,10 @@
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\bin\Debug\EmpericChart [8.3].exe.config
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\bin\Debug\EmpericChart [8.3].exe
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\bin\Debug\EmpericChart [8.3].pdb
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart [8.3].csproj.AssemblyReference.cache
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart__8._3_.Form1.resources
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart__8._3_.Properties.Resources.resources
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart [8.3].csproj.GenerateResource.cache
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart [8.3].csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart [8.3].exe
+D:\Projects\IMLabs\IMLabs\EmpericChart [8.3]\EmpericChart [8.3]\obj\Debug\EmpericChart [8.3].pdb
