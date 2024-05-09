@@ -1,0 +1,15 @@
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\DisVal [9].exe.config
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\DisVal [9].exe
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\DisVal [9].pdb
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal [9].csproj.AssemblyReference.cache
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal__9_.Form1.resources
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal__9_.Properties.Resources.resources
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal [9].csproj.GenerateResource.cache
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal [9].csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal [9].exe
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal [9].pdb
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\MathNet.Numerics.dll
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\System.ValueTuple.dll
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\MathNet.Numerics.xml
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\bin\Debug\System.ValueTuple.xml
+D:\Projects\IMLabs\IMLabs\DisVal [9]\DisVal [9]\obj\Debug\DisVal [9].csproj.Up2Date
