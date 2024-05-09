@@ -1,0 +1,10 @@
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\bin\Debug\YesOrNoApp [8.1].exe.config
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\bin\Debug\YesOrNoApp [8.1].exe
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\bin\Debug\YesOrNoApp [8.1].pdb
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp [8.1].csproj.AssemblyReference.cache
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp__8._1_.Form1.resources
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp__8._1_.Properties.Resources.resources
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp [8.1].csproj.GenerateResource.cache
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp [8.1].csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp [8.1].exe
+D:\Projects\IMLabs\8.1\YesOrNoApp [8.1]\YesOrNoApp [8.1]\obj\Debug\YesOrNoApp [8.1].pdb

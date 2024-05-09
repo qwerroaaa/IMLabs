@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\IMLabs\\8.1\\YesOrNoApp [8.1]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF705FB8-FC63-494A-85A8-8AF6AB1CFE04}|YesOrNoApp [8.1]\\YesOrNoApp [8.1].csproj|d:\\projects\\imlabs\\8.1\\yesornoapp [8.1]\\yesornoapp [8.1]\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF705FB8-FC63-494A-85A8-8AF6AB1CFE04}|YesOrNoApp [8.1]\\YesOrNoApp [8.1].csproj|solutionrelative:yesornoapp [8.1]\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF705FB8-FC63-494A-85A8-8AF6AB1CFE04}|YesOrNoApp [8.1]\\YesOrNoApp [8.1].csproj|d:\\projects\\imlabs\\8.1\\yesornoapp [8.1]\\yesornoapp [8.1]\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF705FB8-FC63-494A-85A8-8AF6AB1CFE04}|YesOrNoApp [8.1]\\YesOrNoApp [8.1].csproj|solutionrelative:yesornoapp [8.1]\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\IMLabs\\8.1\\YesOrNoApp [8.1]\\YesOrNoApp [8.1]\\Form1.cs",
+              "RelativeDocumentMoniker": "YesOrNoApp [8.1]\\Form1.cs",
+              "ToolTip": "D:\\Projects\\IMLabs\\8.1\\YesOrNoApp [8.1]\\YesOrNoApp [8.1]\\Form1.cs",
+              "RelativeToolTip": "YesOrNoApp [8.1]\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:49:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\IMLabs\\8.1\\YesOrNoApp [8.1]\\YesOrNoApp [8.1]\\Form1.cs",
+              "RelativeDocumentMoniker": "YesOrNoApp [8.1]\\Form1.cs",
+              "ToolTip": "D:\\Projects\\IMLabs\\8.1\\YesOrNoApp [8.1]\\YesOrNoApp [8.1]\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "YesOrNoApp [8.1]\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:40:18.205Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
