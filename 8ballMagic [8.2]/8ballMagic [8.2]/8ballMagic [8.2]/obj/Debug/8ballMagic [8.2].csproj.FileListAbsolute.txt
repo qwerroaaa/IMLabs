@@ -1,0 +1,10 @@
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\bin\Debug\8ballMagic [8.2].exe.config
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\bin\Debug\8ballMagic [8.2].exe
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\bin\Debug\8ballMagic [8.2].pdb
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\8ballMagic [8.2].csproj.AssemblyReference.cache
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\_8ballMagic__8._2_.Form1.resources
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\_8ballMagic__8._2_.Properties.Resources.resources
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\8ballMagic [8.2].csproj.GenerateResource.cache
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\8ballMagic [8.2].csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\8ballMagic [8.2].exe
+D:\Projects\IMLabs\IMLabs\8ballMagic [8.2]\8ballMagic [8.2]\8ballMagic [8.2]\obj\Debug\8ballMagic [8.2].pdb
