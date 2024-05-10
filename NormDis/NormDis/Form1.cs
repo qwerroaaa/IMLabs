@@ -24,7 +24,7 @@ namespace NormDis
                 "10000"
             });
 
-            comboBox1.SelectedIndex = 0;
+            comboBox1.SelectedIndex = 1;
         }
         private Random random = new Random();
         private const double alpha = 0.05;
