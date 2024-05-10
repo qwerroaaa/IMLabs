@@ -17,21 +17,21 @@ namespace FootBallManager__10_
             InitializeComponent();
         }
 
-        const double GermanyLambda = -2.2;
-        const double BelarusaLambda = -2.3;
-        const double LatviaLambda = -2;
-        const double IrelandLambda = -2.3;
-        const double NetherLandLambda = -2.1;
-        const double NorwayLambda = -2;
-        const double RussiaLambda = -2.2;
-        const double SwitherLandLambda = -2.4;
+        const double GermanyLambda = 2.2;
+        const double BelarusaLambda = 2.3;
+        const double LatviaLambda = 2;
+        const double IrelandLambda = 2.3;
+        const double NetherLandLambda = 2.1;
+        const double NorwayLambda = 2;
+        const double RussiaLambda = 2.2;
+        const double SwitherLandLambda = 2.4;
 
         public int GetScore(double lambda) //Пуассон
         {
             Random random = new Random();
             double S = 0;
             int score = 0;
-            while (S >= lambda)
+            while (S >= -lambda)
             {
                 S += Math.Log(random.NextDouble());
                 score++;
