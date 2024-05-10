@@ -1,0 +1,10 @@
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\bin\Debug\FootBallManager [10].exe.config
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\bin\Debug\FootBallManager [10].exe
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\bin\Debug\FootBallManager [10].pdb
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager [10].csproj.AssemblyReference.cache
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager__10_.Form1.resources
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager__10_.Properties.Resources.resources
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager [10].csproj.GenerateResource.cache
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager [10].csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager [10].exe
+D:\Projects\IMLabs\IMLabs\FootBallManager [10]\FootBallManager [10]\obj\Debug\FootBallManager [10].pdb
