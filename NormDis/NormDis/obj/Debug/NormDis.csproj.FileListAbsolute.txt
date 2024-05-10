@@ -1,0 +1,15 @@
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\NormDis.exe.config
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\NormDis.exe
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\NormDis.pdb
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\MathNet.Numerics.dll
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\System.ValueTuple.dll
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\MathNet.Numerics.xml
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\bin\Debug\System.ValueTuple.xml
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.csproj.AssemblyReference.cache
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.Form1.resources
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.Properties.Resources.resources
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.csproj.GenerateResource.cache
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.csproj.Up2Date
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.exe
+D:\Projects\IMLabs\IMLabs\NormDis\NormDis\obj\Debug\NormDis.pdb
