@@ -39,7 +39,7 @@ namespace NormDis
         private void StartBtn_Click(object sender, EventArgs e)
         {
             int N = int.Parse(comboBox1.Text);
-            int K = int.Parse(StepNumber.Text);
+            double K = Math.Floor(Math.Sqrt(N));
             StepNumber.Text = K.ToString();
 
             double mean = double.Parse(MeanBox.Text);
