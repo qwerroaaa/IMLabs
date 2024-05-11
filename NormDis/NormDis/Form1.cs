@@ -67,21 +67,21 @@ namespace NormDis
             double max = normalDist.Max();
 
             double step = (max - min)/K;
-
+            //подсчет кол-во значений, попавших в интервал
             for (int i = 0; i < N; i++)
             {
-                int j = 0;
-                while (j < K && normalDist[i] >= min + step * j)
+                int intervalIndex = (int)((normalDist[i] - min) / step);
+                if (intervalIndex >= 0 && intervalIndex < K)
                 {
-                    j++;
+                    statistic[intervalIndex]++;
                 }
-                statistic[j - 1]++;
             }
+
 
             chart1.Series[0].Points.Clear();
             for (int i = 0; i < K; i++)
             {
-                chart1.Series[0].Points.AddXY(i, statistic[i]);
+                chart1.Series[0].Points.AddXY(i+1, statistic[i]);
             }
 
             double[] freqs = statistic.Select(interval => (double)interval / N).ToArray();
@@ -115,7 +115,7 @@ namespace NormDis
             double takeChiSquareValue = ChiSquared.InvCDF(df, 1 - alpha);
             MeanValue.Text = errorMean.ToString();
             VarValue.Text = errorVariance.ToString();
-            ChiValue.Text = ChiSquare.ToString();
+            ChiValue.Text = $"{ChiSquare} || {takeChiSquareValue}";
             ErrorMeanLabel.Text = $"{(Math.Abs(errorMean - mean) / mean) * 100}%";
             ErrorVarLabel.Text = $"{(Math.Abs(errorVariance - variance) / variance) * 100}%";
             if (ChiSquare > takeChiSquareValue)
