@@ -62,7 +62,7 @@
             this.AnswerLabel.AutoSize = true;
             this.AnswerLabel.BackColor = System.Drawing.Color.Blue;
             this.AnswerLabel.ForeColor = System.Drawing.Color.White;
-            this.AnswerLabel.Location = new System.Drawing.Point(415, 232);
+            this.AnswerLabel.Location = new System.Drawing.Point(391, 232);
             this.AnswerLabel.Name = "AnswerLabel";
             this.AnswerLabel.Size = new System.Drawing.Size(0, 13);
             this.AnswerLabel.TabIndex = 2;
