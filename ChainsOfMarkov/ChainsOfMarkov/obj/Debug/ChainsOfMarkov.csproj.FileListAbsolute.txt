@@ -1,0 +1,10 @@
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\bin\Debug\ChainsOfMarkov.exe.config
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\bin\Debug\ChainsOfMarkov.exe
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\bin\Debug\ChainsOfMarkov.pdb
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.csproj.AssemblyReference.cache
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.Form1.resources
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.Properties.Resources.resources
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.csproj.GenerateResource.cache
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.csproj.CoreCompileInputs.cache
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.exe
+D:\Projects\IMLabs\IMLabs\ChainsOfMarkov\ChainsOfMarkov\obj\Debug\ChainsOfMarkov.pdb

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\IMLabs\\IMLabs\\NormDis\\",
+  "WorkspaceRootPath": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF3FF-4835-43C0-B38F-F1E3015380F7}|NormDis\\NormDis.csproj|d:\\projects\\imlabs\\imlabs\\normdis\\normdis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90CF3FF-4835-43C0-B38F-F1E3015380F7}|NormDis\\NormDis.csproj|solutionrelative:normdis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|solutionrelative:chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF3FF-4835-43C0-B38F-F1E3015380F7}|NormDis\\NormDis.csproj|D:\\Projects\\IMLabs\\IMLabs\\NormDis\\normdis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C90CF3FF-4835-43C0-B38F-F1E3015380F7}|NormDis\\NormDis.csproj|solutionrelative:normdis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|d:\\projects\\imlabs\\imlabs\\chainsofmarkov\\chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|solutionrelative:chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,25 +80,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Projects\\IMLabs\\IMLabs\\NormDis\\NormDis\\Form1.cs",
-              "RelativeDocumentMoniker": "NormDis\\Form1.cs",
-              "ToolTip": "D:\\Projects\\IMLabs\\IMLabs\\NormDis\\NormDis\\Form1.cs",
-              "RelativeToolTip": "NormDis\\Form1.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAQwGcAAAANAAAA",
+              "DocumentMoniker": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\ChainsOfMarkov\\Form1.cs",
+              "RelativeDocumentMoniker": "ChainsOfMarkov\\Form1.cs",
+              "ToolTip": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\ChainsOfMarkov\\Form1.cs",
+              "RelativeToolTip": "ChainsOfMarkov\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwEgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T14:21:49.529Z",
+              "WhenOpened": "2024-05-27T14:20:39.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Projects\\IMLabs\\IMLabs\\NormDis\\NormDis\\Form1.cs",
-              "RelativeDocumentMoniker": "NormDis\\Form1.cs",
-              "ToolTip": "D:\\Projects\\IMLabs\\IMLabs\\NormDis\\NormDis\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "NormDis\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\ChainsOfMarkov\\Form1.cs",
+              "RelativeDocumentMoniker": "ChainsOfMarkov\\Form1.cs",
+              "ToolTip": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\ChainsOfMarkov\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ChainsOfMarkov\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T14:12:24.623Z"
+              "WhenOpened": "2024-05-27T14:19:38.872Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         },
