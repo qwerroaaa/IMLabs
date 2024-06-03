@@ -1,0 +1,110 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Windows.Forms;
+
+namespace Agents__14_
+{
+    public partial class Form1 : Form
+    {
+        public class Client
+        {
+            public int TimeNeed { get; set; }
+            public string Name { get; set; }
+
+            public Client() 
+            {
+                Random rnd = new Random();
+                TimeNeed = rnd.Next(1, 10);
+                Name = "Client_" + rnd.Next(1, 1000).ToString();
+            }
+        }
+        public class Operator
+        {
+            public bool IsAvailable { get; set; }
+            public string Name { get; set; }
+        }
+
+        private List<Operator> operators = new List<Operator>();
+        private Queue<Client> clientQueue = new Queue<Client>();
+        private Random random = new Random();
+        DataTable table = new DataTable();
+        public Form1()
+        {
+            InitializeComponent();
+            dataGridView1.DataSource = table;
+            table.Columns.Add("Оператор", typeof(string));
+            table.Columns.Add("Клиент", typeof(string));
+        }
+        bool started = false;
+
+        private void StopStartButton_Click(object sender, EventArgs e)
+        {
+            if (timer1.Enabled)
+            {
+                timer1.Stop();
+            }
+            else
+            {
+                if (!started)
+                {
+                    started = true;
+
+                }
+
+                int NumbersOfOperator = int.Parse(textBox1.Text);
+                operators.Clear();
+
+                for (int i = 0; i < NumbersOfOperator; i++)
+                {
+                    operators.Add(new Operator { IsAvailable = true, Name = "Operator_" + i.ToString() });
+                }
+
+                timer1.Start();
+            }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            
+            // Добавляем клиента в очередь
+            if (Convert.ToBoolean(random.Next(0, 2)))
+            {
+                clientQueue.Enqueue(new Client());
+                var numberofClients = Convert.ToInt32(NumberOfClientLabel.Text);
+                numberofClients += 1;
+                NumberOfClientLabel.Text = numberofClients.ToString();
+            }
+
+            foreach (Operator op in operators)
+                if (op.IsAvailable && clientQueue.Count > 0) 
+                {
+                    op.IsAvailable = false;
+                    Client client = clientQueue.Dequeue();
+                    var numberofClients = Convert.ToInt32(NumberOfClientLabel.Text);
+                    numberofClients -= 1;
+                    NumberOfClientLabel.Text = numberofClients.ToString();
+                    // Добавляем строку с именами оператора и клиента в таблицу
+                    DataRow row = table.NewRow();
+                    row["Оператор"] = op.Name;
+                    row["Клиент"] = client.Name;
+                    table.Rows.Add(row);
+
+                    // Освобождаем оператора через определенное время
+                    Timer clientTimer = new Timer();
+                    clientTimer.Interval = client.TimeNeed * 350; // время в миллисекундах
+                    clientTimer.Tick += (s, args) =>
+                    {
+                        op.IsAvailable = true;
+                        clientTimer.Stop();
+                        clientTimer.Dispose();
+                        table.Rows.Remove(row);
+                    };
+                    clientTimer.Start();
+                    
+                }
+
+
+        }
+    }
+}
