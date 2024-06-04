@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|d:\\projects\\imlabs\\imlabs\\chainsofmarkov\\chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|solutionrelative:chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|d:\\projects\\imlabs\\imlabs\\chainsofmarkov\\chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6560BFCA-FFB6-460D-AB58-DB6D1D00A95A}|ChainsOfMarkov\\ChainsOfMarkov.csproj|solutionrelative:chainsofmarkov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "ChainsOfMarkov\\Form1.cs",
               "ToolTip": "D:\\Projects\\IMLabs\\IMLabs\\ChainsOfMarkov\\ChainsOfMarkov\\Form1.cs",
               "RelativeToolTip": "ChainsOfMarkov\\Form1.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAwwEgAAAApAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwBMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T14:20:39.596Z",
               "EditorCaption": ""

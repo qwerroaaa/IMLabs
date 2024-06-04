@@ -45,7 +45,7 @@
             // 
             // StopStartButton
             // 
-            this.StopStartButton.Location = new System.Drawing.Point(91, 511);
+            this.StopStartButton.Location = new System.Drawing.Point(89, 170);
             this.StopStartButton.Name = "StopStartButton";
             this.StopStartButton.Size = new System.Drawing.Size(75, 23);
             this.StopStartButton.TabIndex = 0;
@@ -69,7 +69,7 @@
             this.Значение});
             this.dataGridView1.Location = new System.Drawing.Point(7, 25);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(245, 471);
+            this.dataGridView1.Size = new System.Drawing.Size(245, 126);
             this.dataGridView1.TabIndex = 2;
             // 
             // Номер
