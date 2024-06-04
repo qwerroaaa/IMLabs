@@ -76,8 +76,8 @@ namespace Agents__14_
                 var numberofClients = Convert.ToInt32(NumberOfClientLabel.Text);
                 numberofClients += 1;
                 NumberOfClientLabel.Text = numberofClients.ToString();
-                AssignClientToOperator();
             }
+            AssignClientToOperator();
         }
 
         private void AssignClientToOperator()
@@ -107,7 +107,6 @@ namespace Agents__14_
                     clientTimer.Stop();
                     clientTimer.Dispose();
                     table.Rows.Remove(row);
-                    AssignClientToOperator(); // Проверяем, есть ли еще клиенты для назначения
                 };
                 clientTimer.Start();
             }
